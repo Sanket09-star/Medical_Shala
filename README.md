@@ -47,13 +47,13 @@ Doctors & Clinics – Manage patients, operations, and finances with ease.
 Patients – Book consultations, chat with doctors, and keep track of medical history anytime.
 
 📱 Screenshots : 
-📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲
+
 ![1](https://github.com/user-attachments/assets/a3f79507-b6bb-4233-881d-f8ba7d7e004b)
-📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲
+
 ![2](https://github.com/user-attachments/assets/f5e3ad38-e129-4243-bb6d-989189ba144b)
-📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲
+
 ![3](https://github.com/user-attachments/assets/7718e8dc-3247-436a-b95c-059ac3d4547a)
-📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲📲
+
 ![4](https://github.com/user-attachments/assets/84fd3572-3aee-492c-8bf3-1434b699196a)
 
 
