@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "402727033381",
+    "project_id": "medicalshala-861d1",
+    "storage_bucket": "medicalshala-861d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402727033381:android:057c269c392d7934167dcc",
+        "android_client_info": {
+          "package_name": "com.example.medical_shala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402727033381-i2ukghvjjh2au3bero7du5l4ftmcr76r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1v6UGhcQoHsKUJ-WF72yXi4oaW32EIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402727033381-i2ukghvjjh2au3bero7du5l4ftmcr76r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402727033381-g3pjmlj6lpqdlv79ko9os24rb894fq3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medicalShala"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
